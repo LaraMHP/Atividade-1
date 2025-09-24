@@ -9,7 +9,7 @@ Este repositório contém as soluções da **Atividade 1 de Visão Computacional
 - `README.md` → Este arquivo de explicação.
 
 ### Desafio 1 – Manipulação de Pixels
-- Explicação sobre o formato de cor **BGR vs RGB** no OpenCV.
+- Explicação sobre o formato de cor **BGR vs RGB** no OpenCV. -- Denominado 'Desafio 1-1'
 - Identificação do pixel `[0,0]` (canto superior esquerdo)  -- Código denominado 'Desafio 1-2'
 - Leitura e impressão das cores dos **quatro cantos da imagem**. -- Código denominado 'Desafio 1-3'
 - Cálculo da **cor média da imagem** (valores médios de R, G, B). -- -- Código denominado 'Desafio 1-4'
