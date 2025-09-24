@@ -23,6 +23,6 @@ Este repositório contém as soluções da **Atividade 1 de Visão Computacional
 
 ##  Como executar
 1. Abra o [Google Colab](https://colab.research.google.com/drive/1-mFeOBhhrMnEBnVApuGLqkrOAY_dYP9F?usp=sharing).  
-2. Carregue este notebook (`atividade1.ipynb`).  
-3. Faça upload de uma imagem (`ponte.jpg` ou outra).  
+2. Carregue este notebook (`Atividade1_VC.ipynb`).  
+3. Faça upload de uma imagem (`Imagem_VC.jpg` ou outra).  
 4. Execute as células para visualizar os resultados.
